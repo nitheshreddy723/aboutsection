@@ -3,12 +3,12 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'poppins',sans-serif;
+    font-family: 'Poppins',sans-serif;
 }
 .section{
     width: 100%;
     min-height: 100vh;
-    background-color: beige;
+    background-color: rgb(214, 216, 207);
 }
 .container{
     width: 80%;
@@ -23,20 +23,20 @@
 }
 .image-section{
     float: right;
-    width: 30%;
+    width: 40%;
 }
 .image-section img{
-    width: 100%;
+    width: 80%;
     height: auto;
 }
-.contemt-section .title{
+.content-section .title{
     text-transform: uppercase;
     font-size: 28px;
 
 }
 .content-section .content h3{
     margin-top: 20px;
-    color: #5d5d5d;
+    color: #3d3d3d;
     font-size: 22px;
 
 }
@@ -51,7 +51,7 @@
 
 }
 .content-section .content .button a{
-    background-color: #3d3d3d;
+    background-color: #a52a2a;
     padding: 12px 40px;
     text-decoration: none;
     color: #fff;
@@ -65,8 +65,8 @@
 .content-section .social{
     margin: 40px 40px;
 }
-.content-section.social i{
-    color: #a52a2a;
+.content-section .social i{
+    color: #2a34a5;
     font-size: 30px;
     padding: 0px 10px;
 
@@ -99,7 +99,7 @@
         width: 100%;
         height: auto;
         display: block;
-        margin: auto;;
+        margin: auto;
     }
     .content-section .title{
         text-align: center;
